@@ -4,11 +4,11 @@
 
 ### Via Intellij Idea
 
-As we have Maven here, you can run it as usual java app with main method - right click on the class;
+As we have Maven here, you can run it as usual java app with main method - right click on the class.
 
 ### Via command line.
 
-There are appropriate *.jar files in downloaded.
+As there are appropriate *.jar files in downloaded, we can compile and run our app with them.
 
 #### Compile
 
